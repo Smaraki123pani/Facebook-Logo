@@ -20,7 +20,7 @@ A simple **Facebook Logo** replica created using **HTML and CSS**. This project 
 ## 📂 Project Structure
 
 ```
-📁 facebook-logo/
+📁 Facebook-Logo/
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 README.md        # Project documentation
